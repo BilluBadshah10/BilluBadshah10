@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BilluBadshah10
 - 👀 I’m interested in coding and robotics
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Web dev And AI
 - 📫 How to reach me ayan001865@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I m new and I don't actually know what to do in future
